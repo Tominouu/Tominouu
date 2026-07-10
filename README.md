@@ -1,16 +1,70 @@
-<h1 align="center">Salut 👋, je suis Tom Leclercq</h1>
-<h3 align="center">Un developpeur fullstack, passionné par le numérique.</h3>
+<div align="center">
+  <h1>Tom Leclercq</h1>
+  <p>
+    <strong>Fullstack developer</strong> ·
+    Apprentice at Chantier Naval Couach ·
+    Building <a href="https://github.com/Tominouu/ai-daily-news">Bilan IA</a>
+  </p>
+  <p>
+    <a href="https://tom-leclercq.fr/">site</a> ·
+    <a href="mailto:tom.leclercq@mmibordeaux.com">mail</a>
+  </p>
+</div>
 
-- 🔭 Je travaille actuellement sur [Hubline](https://hubline.me/)
+<br>
 
-- 🌱 Je suis en train d'approfondir mes connaissances en **PHP**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tominouu&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=00000000&text_color=9ca3af&icon_color=6366f1&border_color=1f2937">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tominouu&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=00000000&text_color=4b5563&icon_color=6366f1&border_color=e5e7eb" height="160">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tominouu&layout=compact&hide_title=true&bg_color=00000000&text_color=9ca3af&border_color=1f2937">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tominouu&layout=compact&hide_title=true&bg_color=00000000&text_color=4b5563&border_color=e5e7eb" height="160">
+</picture>
 
-- 👨‍💻 Tous mes projets sont disponibles ici [https://tom-leclercq.fr/](https://tom-leclercq.fr/)
+<br><br>
 
-- 📫 Contactez moi sur **tom.leclercq@mmibordeaux.com**
+<div align="center">
 
-<p align="left">
-</p>
+### Tech stack
 
-<h3 align="left">Langages et outils utilisés:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" title="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" title="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML" title="HTML">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS" title="CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" title="Docker">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" title="Linux">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" title="MySQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" title="PHP">
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+### Project
+
+</div>
+
+[**Bilan IA**](https://github.com/Tominouu/ai-daily-news) -- Newsletter quotidienne sur l'actualite IA.
+Pipeline GitHub Actions qui collecte 15 sources RSS, resume chaque article avec Mistral,
+et envoie le tout par email avec une version audio. Open source, gratuit, automatique.
+
+<br><br>
+
+<div align="center">
+
+### Interests
+
+<br>
+AI / ML · Open source · Cybersecurity · Game development · UI/UX design
+
+<br><br>
+
+<a href="https://tom-leclercq.fr/">tom-leclercq.fr</a>
+
+</div>
