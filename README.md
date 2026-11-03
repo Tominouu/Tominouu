@@ -47,6 +47,15 @@ A private server that brings back a battle royale its developers shut down. I re
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [Tind'Art](https://github.com/Tominouu/tind-art)
+A playful art-culture app built for an event at the [MusBA](https://www.musba-bordeaux.fr), the Bordeaux fine arts museum, as a BUT MMI school project. It works like a dating app, except your matches are painters: swipe through artists, match with the ones you like and find out about their life and works.
+<br><sub>HTML · CSS · JavaScript · PWA</sub>
+
+</td>
+</tr>
 </table>
 
 ## Toolbox
