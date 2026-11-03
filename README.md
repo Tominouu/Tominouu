@@ -28,6 +28,27 @@ I build software for boats, mostly in the [Signal K](https://signalk.org) open m
   <sub>Weekly npm downloads of <a href="https://www.npmjs.com/package/signalk-rainviewer-charts">signalk-rainviewer-charts</a>, updated every Monday</sub>
 </p>
 
+## Other projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Qdot](https://github.com/Tominouu/Qdot)
+Open-source, self-hostable dynamic QR codes. Design your own codes, change where they point after printing, group them into campaigns and follow every scan in real time. No cookies and no stored IP addresses.
+<br><sub>Next.js · Fastify · PostgreSQL · TypeScript</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Battlelands Royale, revived](https://github.com/Tominouu/battlelands_royale_reload)
+A private server that brings back a battle royale its developers shut down. I reverse engineered the original Android client with the help of AI, then rebuilt the backend and the match servers it expects. It is now playable again from login to the end of a match.
+<br><sub>Reverse engineering · Unity IL2CPP · PlayFab · Photon</sub>
+
+</td>
+</tr>
+</table>
+
 ## Toolbox
 
 <p align="center">
