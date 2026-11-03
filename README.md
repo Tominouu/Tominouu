@@ -10,16 +10,6 @@
   <a href="https://github.com/mmibordeaux"><img src="https://img.shields.io/badge/@mmibordeaux-0f1c33?style=flat-square&logo=github&logoColor=5eead4" alt="MMI Bordeaux"></a>
 </p>
 
-```ts
-const tom = {
-  role:    'Fullstack developer',
-  now:     ['Apprentice @ Chantier Naval Couach', 'Student @ MMI Bordeaux'],
-  onBoard: ['Signal K', 'NMEA 0183 / AIS', 'chartplotters', 'OpenLayers'],
-  ashore:  ['TypeScript', 'Angular', 'React', 'Node', 'Python', 'Rust', 'PHP'],
-  likes:   ['open source', 'UI that feels right', 'boats', 'game dev', '3D'],
-};
-```
-
 ## On the water
 
 I build software for boats, mostly in the [Signal K](https://signalk.org) open marine data ecosystem.
