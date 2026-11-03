@@ -25,5 +25,3 @@ I build software for boats, mostly in the [Signal K](https://signalk.org) open m
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,nodejs,python,rust,php,laravel,kotlin,postgres,docker,linux,figma,blender,godot&perline=9" alt="Tech stack">
 </p>
-
-<p align="center"><sub>Fair winds · <a href="https://tom-leclercq.fr">tom-leclercq.fr</a></sub></p>

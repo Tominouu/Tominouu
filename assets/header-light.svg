@@ -28,7 +28,6 @@
     <text class="in" x="64" y="132" font-size="60" font-weight="700" fill="#0f1c33" letter-spacing="-1">Tom Leclercq</text>
     <text class="in" style="animation-delay:.15s" x="66" y="176" font-size="22" fill="#475569">Fullstack developer · marine software &amp; the web</text>
     <text class="in" style="animation-delay:.3s" x="66" y="232" font-size="17" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" fill="#0f766e">~/bordeaux $ signalk · nmea · chartplotters · open source<tspan class="cursor"> ▍</tspan></text>
-    <text class="in" style="animation-delay:.45s" x="66" y="270" font-size="13" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" fill="#94a3b8">wind: westerly, low pressure to the east</text>
   </g>
 </g>
 </svg>
