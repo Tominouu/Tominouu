@@ -23,5 +23,5 @@ I build software for boats, mostly in the [Signal K](https://signalk.org) open m
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nodejs,python,php,laravel,postgres,docker,linux,figma,blender,godot&perline=9" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nodejs,python,php,laravel,postgres,docker,linux,figma,blender,unity,godot&perline=9" alt="Tech stack">
 </p>
