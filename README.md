@@ -20,6 +20,14 @@ I build software for boats, mostly in the [Signal K](https://signalk.org) open m
 | **[signalk-rainviewer-charts](https://github.com/Tominouu/signalk-rainviewer-charts)** <br> [![npm](https://img.shields.io/npm/dm/signalk-rainviewer-charts?style=flat-square&color=0f766e&label=npm)](https://www.npmjs.com/package/signalk-rainviewer-charts) | A Signal K plugin that serves live RainViewer weather radar as a chart layer, published on npm and in the App Store. |
 | **[awesome-nmea-simulator](https://github.com/Tominouu/awesome-nmea-simulator)** | A ship simulator in **Rust** that sends NMEA 0183, AIS, Signal K and ViewSync over TCP, UDP, WebSocket and serial. You can drive it from the keyboard, a gamepad or an HTTP API. |
 
+<p align="center">
+  <a href="https://npm-stat.com/charts.html?package=signalk-rainviewer-charts">
+    <img src="https://raw.githubusercontent.com/Tominouu/signalk-rainviewer-charts/master/stats/downloads.svg" width="640" alt="Weekly npm downloads of signalk-rainviewer-charts">
+  </a>
+  <br>
+  <sub>Weekly npm downloads of <a href="https://www.npmjs.com/package/signalk-rainviewer-charts">signalk-rainviewer-charts</a>, updated every Monday</sub>
+</p>
+
 ## Toolbox
 
 <p align="center">
